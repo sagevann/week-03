@@ -1,0 +1,35 @@
+# Generated at 2011-10-18 16:24:54 PDT
+# From configuration source(s):
+# default/wpn_rails/endemic_allocation_plans.yml
+#
+---
+default:
+  A: 3
+  B: 34
+  C: 60
+  D: 3
+mobile_lookup_distribution:
+  A: 100 
+  B: 100 
+  C: 100 
+  D: 0
+'411':
+  A: 3
+  B: 34
+  C: 60
+  D: 3
+AFFILIATES:
+  A: 3
+  B: 34
+  C: 60
+  D: 3
+LINKING:
+  A: 3
+  B: 34
+  C: 60
+  D: 3
+PPC_GOOGLE:
+  A: 3
+  B: 57
+  C: 37
+  D: 3
